@@ -38,5 +38,10 @@ namespace COMP123_S2016_FinalExam_300839401
         {
             Application.Exit();
         }
+
+        private void FinalForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
